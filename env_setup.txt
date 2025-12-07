@@ -1,0 +1,3 @@
+MONGODB_URI=mongodb+srv://<user>:<password>@cluster.mongodb.net/secretsanta
+NEXTAUTH_SECRET=changeme_to_something_secure_random
+NEXTAUTH_URL=http://localhost:3000
